@@ -1,0 +1,17 @@
+{
+  "name": "pushkar-university-data",
+  "version": "1.0.0",
+  "description": "This is a NPM to Fetch You the Universities details in World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "universities",
+    "hooks",
+    "npm"
+  ],
+  "author": "Pushkar Roy",
+  "license": "MIT"
+}
