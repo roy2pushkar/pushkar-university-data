@@ -1,6 +1,6 @@
 {
   "name": "pushkar-university-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "This is a NPM to Fetch You the Universities details in World",
   "main": "dist/index.js",
