@@ -16,6 +16,13 @@
   ],
   "author": "Pushkar Roy",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roy2pushkar/pushkar-university-data/tree/master"
+  },
+  "bugs": {
+    "url": "https://github.com/roy2pushkar/pushkar-university-data/tree/master/issues"
+  },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
