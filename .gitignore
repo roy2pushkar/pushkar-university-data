@@ -1,0 +1,6 @@
+.vscode
+dist
+node_modules
+
+pushkar-university-data*.tgz
+.DS_store
