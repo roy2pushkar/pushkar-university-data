@@ -1,4 +1,4 @@
-# tapas-countries
+# Pushkar-Universities data
 
 A ReactJS hook to get the country information.
 

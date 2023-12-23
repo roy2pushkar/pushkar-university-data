@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/roy2pushkar/pushkar-university-data/tree/master"
+    "url": "git+https://github.com/roy2pushkar/pushkar-university-data.git#master"
   },
   "bugs": {
     "url": "https://github.com/roy2pushkar/pushkar-university-data/tree/master/issues"
